@@ -11,3 +11,20 @@ span{
   color:royalblue;
   cursor: pointer;
 }
+
+p{
+  color: #FFFF;
+}
+
+button,select,input{
+  background-color: #8d8e9149;
+  color: #FFFF;
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 17px;
+  font-family: Arial;
+  margin:0 5px;
+  width:150px;
+}
+
