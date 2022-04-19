@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #282c34;
+}
+
+span{
+  text-decoration: underline;
+  color:royalblue;
+  cursor: pointer;
+}
